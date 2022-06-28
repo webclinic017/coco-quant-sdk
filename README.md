@@ -271,7 +271,7 @@ memory usage: 4.0+ KB
 
 #### Download EOD price data for all listing instruments in NYSE
 
-Please check [this]() for the supported exchanges by EOD Historical Data API.
+Please check [this](https://eodhistoricaldata.com/financial-apis/list-supported-exchanges) for the supported exchanges by EOD Historical Data API.
 
 *Currently, the bulk download API doesn't support an incremental update and requires one API call per symbol and the list of symbol is obtained with bulk-eod-prices call.*
 
